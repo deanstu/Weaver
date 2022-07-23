@@ -1,6 +1,6 @@
 import pickle
 special_characters = '"!@#$%^&*()-+?_=,<>/".1234567890' + "''"
-in_file = open('words.txt', 'r')
+in_file = open('dictionary.txt', 'r')
 out_file = open('four_letter_dict.txt', 'w')
 
 
